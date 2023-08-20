@@ -8,3 +8,5 @@ Overview of GitHub-tutorial:
 3: Adding the files to git
 
 4: Committing the files
+
+5: Pushing the files
